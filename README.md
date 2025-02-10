@@ -18,7 +18,7 @@ CSConnect is a social networking platform designed for Computer Science students
 ### Version Control
 - <b>Git & GitLab:</b> Used for feature branching, peer reviews, and ensuring code quality through structured workflows.
 ## Database Design
-- <b>Firestore Collections: Includes Users, Modules, Posts, and Messages, organized for fast, scalable access.
+- <b>Firestore Collections:</b> Includes Users, Modules, Posts, and Messages, organized for fast, scalable access.
 - <b>User-Centric Design:</b> Intuitive navigation, clear UI elements, and a modern aesthetic focused on functionality and accessibility.
 - <b>Testing:</b> Extensive testing of interactions and real-time data to ensure smooth operation and bug-free user experience.
 ## Challenges
